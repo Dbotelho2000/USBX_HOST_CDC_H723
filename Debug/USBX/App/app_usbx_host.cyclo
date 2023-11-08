@@ -1,0 +1,5 @@
+../USBX/App/app_usbx_host.c:74:6:MX_USBX_Host_Init	7
+../USBX/App/app_usbx_host.c:164:13:app_ux_host_thread_entry	1
+../USBX/App/app_usbx_host.c:187:6:ux_host_event_callback	11
+../USBX/App/app_usbx_host.c:285:6:ux_host_error_callback	3
+../USBX/App/app_usbx_host.c:325:5:__io_putchar	1

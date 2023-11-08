@@ -1,0 +1,5 @@
+../USBX/App/app_usbx_host.c:74:6:MX_USBX_Host_Init	64	static
+../USBX/App/app_usbx_host.c:164:13:app_ux_host_thread_entry	16	static
+../USBX/App/app_usbx_host.c:187:6:ux_host_event_callback	32	static
+../USBX/App/app_usbx_host.c:285:6:ux_host_error_callback	24	static
+../USBX/App/app_usbx_host.c:325:5:__io_putchar	16	static
